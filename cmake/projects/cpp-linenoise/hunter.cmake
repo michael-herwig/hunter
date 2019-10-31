@@ -14,9 +14,9 @@ hunter_add_version(
     VERSION
     1.0.0
     URL
-    "https://github.com/michael-herwig/cpp-linenoise/archive/1.0.0.tar.gz"
+    "https://github.com/michael-herwig/cpp-linenoise/archive/v1.0.0.tar.gz"
     SHA1
-    496b96c3bb714b62a0c0681b8cd3424cb83389c8
+    10329beb547aede01a4a30895bc2247ba29ff233
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
